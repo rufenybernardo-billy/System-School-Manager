@@ -44,7 +44,7 @@ escola/
 
 **1. Clona o repositório**
 ```bash
-git clone https://github.com/rufenybernardo-billy/sistema-escolar
+git clone https://github.com/rufenybernardo-billy/System-School-Manager
 ```
 
 **2. Entra na pasta**
